@@ -1,0 +1,56 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #4442c4;
+}
+
+header {
+    background-color: #3a77ff; 
+    color: #da4545;
+    text-align: center;
+    padding: 2em 0;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2em;
+}
+
+.tagline {
+    font-size: 1.2em;
+    margin-top: 0.5em;
+}
+
+#main-content {
+    text-align: center;
+    padding: 2em;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 1em;
+}
+
+.description {
+    color: #333;
+    font-size: 1.2em;
+    line-height: 1.5;
+}
+
+.coming-soon {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #e44d26; 
+    margin-top: 1em;
+}
+
+footer {
+    text-align: center;
+    padding: 1em 0;
+    background-color: #3a77ff; 
+    color: #15368b;
+    font-size: 0.8em;
+}
